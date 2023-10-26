@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\leand\\Estudos\\Tarefeiro\\Tarefeiro\\TarefeiroAPI\\TarefeiroAPI.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\leand\\Estudos\\Tarefeiro\\Tarefeiro\\TarefeiroAPI\\TarefeiroAPI.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\leand\\Estudos\\Tarefeiro\\Tarefeiro\\TarefeiroAPI\\obj\\",
+=======
+    "C:\\Users\\leand\\Estudando - Visual Studio\\TarefeiroAPIApp\\TarefeiroAPI\\TarefeiroAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\leand\\Estudando - Visual Studio\\TarefeiroAPIApp\\TarefeiroAPI\\TarefeiroAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leand\\Estudando - Visual Studio\\TarefeiroAPIApp\\TarefeiroAPI\\TarefeiroAPI.csproj",
+        "projectName": "TarefeiroAPI",
+        "projectPath": "C:\\Users\\leand\\Estudando - Visual Studio\\TarefeiroAPIApp\\TarefeiroAPI\\TarefeiroAPI.csproj",
+        "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leand\\Estudando - Visual Studio\\TarefeiroAPIApp\\TarefeiroAPI\\obj\\",
+>>>>>>> f959078e4987bc112165c230536d86ea92e66aba
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",

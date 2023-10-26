@@ -270,6 +270,7 @@ C:\Users\leand\Estudando - Visual Studio\TarefeiroAPIApp\TarefeiroAPI\bin\Debug\
 C:\Users\leand\Estudando - Visual Studio\TarefeiroAPIApp\TarefeiroAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\leand\Estudando - Visual Studio\TarefeiroAPIApp\TarefeiroAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\leand\Estudando - Visual Studio\TarefeiroAPIApp\TarefeiroAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+<<<<<<< HEAD
 C:\Users\leand\Estudos\Tarefeiro\Tarefeiro\TarefeiroAPI\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\leand\Estudos\Tarefeiro\Tarefeiro\TarefeiroAPI\bin\Debug\net6.0\appsettings.json
 C:\Users\leand\Estudos\Tarefeiro\Tarefeiro\TarefeiroAPI\bin\Debug\net6.0\TarefeiroAPI.exe
@@ -542,3 +543,5 @@ C:\Users\leand\Estudos\Tarefeiro\Tarefeiro\TarefeiroAPI\obj\Debug\net6.0\refint\
 C:\Users\leand\Estudos\Tarefeiro\Tarefeiro\TarefeiroAPI\obj\Debug\net6.0\TarefeiroAPI.pdb
 C:\Users\leand\Estudos\Tarefeiro\Tarefeiro\TarefeiroAPI\obj\Debug\net6.0\TarefeiroAPI.genruntimeconfig.cache
 C:\Users\leand\Estudos\Tarefeiro\Tarefeiro\TarefeiroAPI\obj\Debug\net6.0\ref\TarefeiroAPI.dll
+=======
+>>>>>>> f959078e4987bc112165c230536d86ea92e66aba

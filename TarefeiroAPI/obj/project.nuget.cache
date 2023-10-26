@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "VMk3QSuRBotM9/FgD+7Pqw6QQ669pcc3PAQHfewU7rKhjKWzK5NdViT80+ipG0nBS+GlyKIBdcgwKTnsg8/+8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\leand\\Estudos\\Tarefeiro\\Tarefeiro\\TarefeiroAPI\\TarefeiroAPI.csproj",
+=======
+  "dgSpecHash": "27yv+8QMzgsqIpUQReHjXTyMjYO+/P4JiKdjl8txVdrak3OddG1h3riJHmcoroMr9Eqm+BoqM5cZqZcaNsNYvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leand\\Estudando - Visual Studio\\TarefeiroAPIApp\\TarefeiroAPI\\TarefeiroAPI.csproj",
+>>>>>>> f959078e4987bc112165c230536d86ea92e66aba
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
